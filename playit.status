@@ -1565,3 +1565,6 @@ login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAApt8AAAAZGWPlL9AAA
 TUNNELS
 beginning-womens.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 heart-julie.gl.at.ply.gg:2502 => 127.0.0.1:2502 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
